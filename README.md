@@ -2,6 +2,10 @@
 # 背景
 Babylon.js + webpackのサンプルを目指しました。
 
+# 動作環境
+
+- Node.js v16.14.1
+
 # Setup
 
 clone
