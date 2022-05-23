@@ -39,10 +39,3 @@ const createScene = async function () {
     //PlayGroundと同じ内容を書く
 }
 ```
-と
-
-# 動作サイト
-
-https://iwaken71.github.io/vite-vue-babylon-sample/index.html
-
-![Babylonjs](https://user-images.githubusercontent.com/10010842/160681620-48de6906-3734-4ae9-98e2-ede6fa57c647.gif)
